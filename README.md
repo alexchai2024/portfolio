@@ -5,7 +5,7 @@ Ambitious and high-achieving high school student who excels academically and dem
 Vice President of Sales,  Junior Achievement    	2023-2024 \
 Volunteer with a Member of Parliament,         Terry Beech MP office 				2023-2024 \
 Volunteer                 Granville Island Children's Festival 2024 \
-Bard Customer Service Liason,       Bard at the Beach 						2023-2024 \
+Bard Customer Service Liason,       Bard at the Beach 						2023-2024 
 
 ## Awards and Certifications
 •	Certificate of Accomplishment at JABC program    
