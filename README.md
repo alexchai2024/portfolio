@@ -3,9 +3,10 @@ Ambitious and high-achieving high school student who excels academically and dem
 
 # Volunteering Experience
 Bard customer service,       Bard at the Beach 						2024 \
+Volunteer                 Granville Island Children's Festival 2024 \
 Vice President of Sales,  Junior Achievement    	2023-2024 \
 Office Assistant,         Terry Beech MP office 				2023-2024 \
-Volunteer coffee server,    Bard at the Beach     2023 \
+Volunteer coffee server,    Bard at the Beach     2023 
 
 ## Awards and Certifications
 •	Pursuing Master of AI program    
