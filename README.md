@@ -1,14 +1,13 @@
 # Student
-Visionary technical leader with track record of inspiring excellence and formulating data strategies for the success of the organization. Passionate about using AI to automate workflow and transform the data industry.  
+Ambitious and high-achieving high school student who excels academically and demonstrates leadership through extra-curricular activities.
 
-## Work Experience
-Data Quality Manager,       Policy Reporter 						2022-now \
-Manager of Data Analytics,  LandSure Systems     	2021-2022 \
-Manager of Records,         Simon Fraser University 				2020-2021 \
-Senior Programs Specialist, University of Calgary 					2017-2020 \
-Program Coordinator,        University of Calgary 					2013-2017 
- 
-## Education and Certifications
+# Volunteering Experience
+Bard customer service,       Bard at the Beach 						2024 \
+Vice President of Sales,  Junior Achievement    	2023-2024 \
+Office Assistant,         Terry Beech MP office 				2023-2024 \
+Volunteer coffee server,    Bard at the Beach     2023 \
+
+## Awards and Certifications
 •	Pursuing Master of AI program    
 •	BA     
 •	IBM Data Engineering Certificate \
