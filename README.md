@@ -1,5 +1,5 @@
 # Student
-Ambitious and high-achieving high school student who excels academically and demonstrates leadership through extra-curricular activities.
+With aspirations in finance, math and robotics engineering, I am committed to using my academic and technical skills to make a positive impact on society and drive meaningful change in these industries.
 
 # Volunteering Experience
 Vice President of Sales,  Junior Achievement    	2023-2024 \
