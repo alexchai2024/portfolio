@@ -43,9 +43,9 @@ With aspirations in finance, math and robotics engineering, I am committed to us
 
 ## Academics
 ### Mathematics
--  Calculus (12th Grade): Earned an A.
--  PreCalculus12 (11th Grade):  Earned a A.
--  Pre Calculus 11 (10th Grade):  Earned an A-.
+-  Calculus (12th Grade): Earned an A
+-  PreCalculus12 (11th Grade):  Earned a A
+-  Pre Calculus 11 (10th Grade):  Earned an A-
 -  Foundations of Mathematics and Pre Calculus 10 (10th grade): Earned an A
   
 ### Sciences
@@ -55,11 +55,11 @@ With aspirations in finance, math and robotics engineering, I am committed to us
 -  Physics (11th Grade): Earned an A
 
 ### Language Arts
--  French (11th Grade): Earned an A+, perfect marks.
+-  French (11th Grade): Earned an A+, perfect marks
 -  French (10th Grade): Earned an A
 -  English(11th Grade): Earned an A-
 
 ## Projects
 ### Programming Video Game with Python
-  -Pong Game developed using PyGame library  
+Pong Game developed using PyGame library  
   [Pong Game Code](https://github.com/alexchai2024/portfolio/blob/main/Coding/Video%20Game%20Pong%20with%20Python.py)  
