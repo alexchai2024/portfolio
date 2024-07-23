@@ -41,14 +41,17 @@ With aspirations in finance, math and robotics engineering, I am committed to us
 ![Franco de la classe Award](/asset/Franco de la classse.jpg) 
 
 
-## Projects
-### Influx Analysis Machine Learning Model
+## Academics
+### Mathematics
+-  Calculus AB (12th Grade): Explored concepts of derivatives, integrals, and limits. Earned an A.
+-  Statistics (11th Grade): Studied methods for collecting, analyzing, and drawing conclusions from data. Earned a B+.
+-  Algebra II (10th Grade): Covered advanced algebraic concepts including quadratic equations and functions. Earned an A-.
+  
+### Science
+-  Calculus AB (12th Grade): Explored concepts of derivatives, integrals, and limits. Earned an A.
+-  Statistics (11th Grade): Studied methods for collecting, analyzing, and drawing conclusions from data. Earned a B+.
+-  Algebra II (10th Grade): Covered advanced algebraic concepts including quadratic equations and functions. Earned an A-.
 
-  -Based on historical influx data, I created ML model to forecast the future influxes for resource planning  
-  [Time-Series Analysis Code](https://github.com/mengjin2211/github-portfolio-JM/blob/main/sample%20code/Time-series%20Analysis%20Model)  
-  
-  ![Time-Series Analysis of Influxes Using Prophet Machine Learning Model](/asset/Time Series Analysis ML Model.png)  
-  
-### AI Application   
- -Hugging Face Transformers  
- [LLM Application](https://github.com/mengjin2211/github-portfolio-JM/blob/main/sample%20code/AI-Transformers)    
+### Second Language
+-  French (11th Grade): Earned an A+, 100%.
+-  French (10th Grade): Earned an A, 94%.
