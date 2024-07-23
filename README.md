@@ -46,7 +46,7 @@ With aspirations in finance, math and robotics engineering, I am committed to us
 -  Calculus (12th Grade): Earned an A
 -  PreCalculus12 (11th Grade):  Earned a A
 -  Pre Calculus 11 (10th Grade):  Earned an A-
--  Foundations of Mathematics and Pre Calculus 10 (10th grade): Earned an A
+-  Foundations of Math and Pre Calculus 10 (10th grade): Earned an A
   
 ### Sciences
 -  AP Computer Science Principles(11th grade): Earned perfect marks and A+
