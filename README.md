@@ -2,13 +2,13 @@
 With aspirations in finance, math and robotics engineering, I am committed to using my academic and technical skills to make a positive impact on society and drive meaningful change in these industries.
 
 # Volunteering Experience
-## Vice President of Sales,  Junior Achievement    	2023-2024 \
+## Vice President of Sales,  Junior Achievement    	2023-2024 
 -  Completed an extracurricular business program in Junior Achievement, gaining valuable insights into the business world and a deeper understanding of finance.
 -  Took on the leadership role of Vice President of Sales for my company, demonstrating exceptional leadership skills and achieving outstanding sales results.
 -  Utilized marketing strategies to boost revenue and drive sales of our hand-made organic herbal soap products.
--  Achieved the highest net revenue of the competition, earning us the honor of certification. \
+-  Achieved the highest net revenue of the competition, earning us the honor of certification. 
 
-## Volunteer with a Member of Parliament,         Terry Beech MP office 				2023-2024 \
+## Volunteer with a Member of Parliament,         Terry Beech MP office 				2023-2024 
 -  Selected as an honorary volunteer in the office of Terry Beech, Member of Parliament for the riding of Burnaby North Seymour through extensive selection process.
 -  Contributed to the development of policy solutions for pressing affordability and infrastructure issues, gaining invaluable experience in policy analysis and development.
 -  Focused on affordability and infrastructure development, gaining valuable experience in policy analysis and debate. 
@@ -16,7 +16,7 @@ With aspirations in finance, math and robotics engineering, I am committed to us
 -  Collaborated with a team of professionals to address pressing policy issues, gaining experience in teamwork and communication.
 -  Developed critical skills that will serve me well in my future academic and professional pursuits, including problem-solving, organization, and attention to detail.
   
-## Volunteer                 Granville Island Children's Festival 2024 \
+## Volunteer                 Granville Island Children's Festival 2024 
 -  Customer service as part of the operations of a theatrical production company that interacts extensively with the public.
 -  Practiced leadership skills and effective communication by training new coworkers and providing guidance.
 -  Developed critical skills in teamwork, problem-solving, and time management through this experience.
