@@ -25,15 +25,20 @@ With aspirations in finance, math and robotics engineering, I am committed to us
 -  Gave back to society and made a positive impact on the community.
   
 ## Awards and Certifications
-### ![Certificate of Accomplishment JABC program](/asset/JA Certificate.png)
+### Certificate of Accomplishment JABC program
+![Certificate of Accomplishment JABC program](/asset/JA Certificate.png)
 
-###	![School Honor Roll Award](/asset/Honour Roll Award.jpg)  
+###	School Honor Roll Award
+![School Honor Roll Award](/asset/Honour Roll Award.jpg)  
 
-###	![Academic Achievement Award](/asset/Academic Achievement Award.jpg) 
+###	Academic Achievement Award
+![Academic Achievement Award](/asset/Academic Achievement Award.jpg) 
 
-###	![Enthusiasm for Learning Award](/asset/enthusiasm for learning.jpg) 
+###	Enthusiasm for Learning Award
+![Enthusiasm for Learning Award](/asset/enthusiasm for learning.jpg) 
 
-###	![Franco de la classe Award](/asset/Franco de la classse.jpg) 
+###	Franco de la classe Award
+![Franco de la classe Award](/asset/Franco de la classse.jpg) 
 
 
 ## Projects
