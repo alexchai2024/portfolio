@@ -62,4 +62,4 @@ With aspirations in finance, math and robotics engineering, I am committed to us
 ## Projects
 ### Programming Video Game with Python
   -Pong Game developed using PyGame library  
-  [Pong Game Code](https://github.com/mengjin2211/github-portfolio-JM/blob/main/sample%20code/Time-series%20Analysis%20Model)  
+  [Pong Game Code](https://github.com/alexchai2024/portfolio/blob/main/Coding/Video%20Game%20Pong%20with%20Python.py)  
