@@ -13,15 +13,11 @@ Bard Customer Service Liason,       Bard at the Beach 						2023-2024
 
 •	School [Honor Roll Award](/asset/Honour Roll Award.jpg)  
 
-•	[Academic Achievement Award](/asset/Academic Achievement Award.jpg) \
+•	[Academic Achievement Award](/asset/Academic Achievement Award.jpg) 
 
 •	[Enthusiasm for Learning Award](/asset/enthusiasm for learning.jpg)    
 •	[Franco de la classe Award](/asset/Franco de la classse.jpg) \
-•	Database Administration Certificate (University of Calgary) \
-•	IBM Data Science Professional Certificate \
-•	Microsoft Azure DP-900 \
-•	Microsoft Azure AZ-900  \
-•	Machine Learning Certificate  
+
 
 ## Projects
 ### Influx Analysis Machine Learning Model
