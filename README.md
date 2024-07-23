@@ -10,10 +10,13 @@ Bard Customer Service Liason,       Bard at the Beach 						2023-2024
 ## Awards and Certifications
 •	Certificate of Accomplishment at the
 [JABC program](/asset/JA Certificate.png)
-•	School [Honor Roll Award](/asset/Honour Roll Award.jpg)     
-•	Academic Achievement Award \
-•	Enthusiasm for Learning Award    
-•	Franco de la classe Award \
+
+•	School [Honor Roll Award](/asset/Honour Roll Award.jpg)  
+
+•	[Academic Achievement Award](/asset/Academic Achievement Award.jpg) \
+
+•	[Enthusiasm for Learning Award](/asset/enthusiasm for learning.jpg)    
+•	[Franco de la classe Award](/asset/Franco de la classse.jpg) \
 •	Database Administration Certificate (University of Calgary) \
 •	IBM Data Science Professional Certificate \
 •	Microsoft Azure DP-900 \
