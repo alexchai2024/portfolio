@@ -60,3 +60,6 @@ With aspirations in finance, math and robotics engineering, I am committed to us
 -  English(11th Grade): Earned an A-
 
 ## Projects
+### Programming Video Game with Python
+  -Pong Game developed using PyGame library  
+  [Pong Game Code](https://github.com/mengjin2211/github-portfolio-JM/blob/main/sample%20code/Time-series%20Analysis%20Model)  
