@@ -61,5 +61,7 @@ With aspirations in finance, math and robotics engineering, I am committed to us
 
 ## Projects
 ### Programming Video Game with Python
-Pong Game developed using PyGame library  
-  [Pong Game Code](https://github.com/alexchai2024/portfolio/blob/main/Coding/Video%20Game%20Pong%20with%20Python.py)  
+-  Utilizing the PyGame library, crafted an object-oriented Pong Game that leverages advanced functions such as draw_start_screen, tictactoe_game, and pong_game. 
+-  Further refined coding through the implementation of intricate loops and iterations, resulting in a captivating and dynamic user experience.
+
+    [Pong Game Code](https://github.com/alexchai2024/portfolio/blob/main/Coding/Video%20Game%20Pong%20with%20Python.py)  
