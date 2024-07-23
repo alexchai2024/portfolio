@@ -10,8 +10,7 @@ Bard Customer Service Liason,       Bard at the Beach 						2023-2024
 ## Awards and Certifications
 •	Certificate of Accomplishment at the
 [JABC program](/asset/JA Certificate.png)
-
-•	School Honour Roll Award     
+•	School [Honor Roll Award](/asset/Honour Roll Award.jpg)     
 •	Academic Achievement Award \
 •	Enthusiasm for Learning Award    
 •	Franco de la classe Award \
