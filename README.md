@@ -43,15 +43,20 @@ With aspirations in finance, math and robotics engineering, I am committed to us
 
 ## Academics
 ### Mathematics
--  Calculus AB (12th Grade): Explored concepts of derivatives, integrals, and limits. Earned an A.
--  Statistics (11th Grade): Studied methods for collecting, analyzing, and drawing conclusions from data. Earned a B+.
--  Algebra II (10th Grade): Covered advanced algebraic concepts including quadratic equations and functions. Earned an A-.
+-  Calculus (12th Grade): Earned an A.
+-  PreCalculus12 (11th Grade):  Earned a A.
+-  Pre Calculus 11 (10th Grade):  Earned an A-.
+-  Foundations of Mathematics and Pre Calculus 10 (10th grade): Earned an A
   
-### Science
--  Calculus AB (12th Grade): Explored concepts of derivatives, integrals, and limits. Earned an A.
--  Statistics (11th Grade): Studied methods for collecting, analyzing, and drawing conclusions from data. Earned a B+.
--  Algebra II (10th Grade): Covered advanced algebraic concepts including quadratic equations and functions. Earned an A-.
+### Sciences
+-  AP Computer Science Principles(11th grade): Earned perfect marks and A+
+-  Chemistry (11th Grade): Earned an A
+-  Biology (11th Grade): Earned an A
+-  Physics (11th Grade): Earned an A
 
-### Second Language
--  French (11th Grade): Earned an A+, 100%.
--  French (10th Grade): Earned an A, 94%.
+### Language Arts
+-  French (11th Grade): Earned an A+, perfect marks.
+-  French (10th Grade): Earned an A
+-  English(11th Grade): Earned an A-
+
+## Projects
