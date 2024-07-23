@@ -8,15 +8,15 @@ Volunteer                 Granville Island Children's Festival 2024 \
 Bard Customer Service Liason,       Bard at the Beach 						2023-2024 
 
 ## Awards and Certifications
-•	Certificate of Accomplishment at the
-[JABC program](/asset/JA Certificate.png)
+• ![Certificate of Accomplishment JABC program](/asset/JA Certificate.png)
 
-•	School [Honor Roll Award](/asset/Honour Roll Award.jpg)  
+•	![School Honor Roll Award](/asset/Honour Roll Award.jpg)  
 
-•	[Academic Achievement Award](/asset/Academic Achievement Award.jpg) 
+•	![Academic Achievement Award](/asset/Academic Achievement Award.jpg) 
 
-•	[Enthusiasm for Learning Award](/asset/enthusiasm for learning.jpg)    
-•	[Franco de la classe Award](/asset/Franco de la classse.jpg) \
+•	![Enthusiasm for Learning Award](/asset/enthusiasm for learning.jpg) 
+
+•	![Franco de la classe Award](/asset/Franco de la classse.jpg) 
 
 
 ## Projects
