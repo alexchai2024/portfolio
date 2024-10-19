@@ -1,5 +1,30 @@
 # Student
 With aspirations in finance, math and robotics engineering, I am committed to using my academic and technical skills to make a positive impact on society and drive meaningful change in these industries.
+## Education
+-  Burnaby Mountain Secondary School, Burnaby, British Columbia, Canada
+-  Expected Graduation: June 2025
+-  GPA: 3.7/4.0
+-  AP courses: Computer Science, Chemistry
+## Academics
+### Mathematics
+-  Calculus (12th Grade): in progress
+-  PreCalculus12 (11th Grade):  Earned a A
+-  Pre Calculus 11 (10th Grade):  Earned an A-
+-  Foundations of Math and Pre Calculus 10 (10th grade): Earned an A
+  
+### Sciences
+-  AP Computer Science Principles(11th grade): Earned perfect marks and A+
+-  AP Chemistry (12th grade): in progress
+-  Physics (12th grade): in progress
+-  Anatomy and Physiology (12th grade): in progress
+-  Chemistry (11th Grade): Earned an A
+-  Biology (11th Grade): Earned an A
+-  Physics (11th Grade): Earned an A
+
+### Language Arts
+-  French (11th Grade): Earned an A+, perfect marks
+-  French (10th Grade): Earned an A
+-  English(11th Grade): Earned an A-
 
 ## Volunteering Experience
 ### Vice President of Sales,  Junior Achievement    	2023-2024 
@@ -41,23 +66,6 @@ With aspirations in finance, math and robotics engineering, I am committed to us
 ![Franco de la classe Award](/asset/Franco de la classse.jpg) 
 
 
-## Academics
-### Mathematics
--  Calculus (12th Grade): Earned an A
--  PreCalculus12 (11th Grade):  Earned a A
--  Pre Calculus 11 (10th Grade):  Earned an A-
--  Foundations of Math and Pre Calculus 10 (10th grade): Earned an A
-  
-### Sciences
--  AP Computer Science Principles(11th grade): Earned perfect marks and A+
--  Chemistry (11th Grade): Earned an A
--  Biology (11th Grade): Earned an A
--  Physics (11th Grade): Earned an A
-
-### Language Arts
--  French (11th Grade): Earned an A+, perfect marks
--  French (10th Grade): Earned an A
--  English(11th Grade): Earned an A-
 
 ## Projects
 ### Programming Video Game with Python
