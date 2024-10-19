@@ -42,14 +42,14 @@ With aspirations in finance, math and robotics engineering, I am committed to us
 -  Developed critical skills that will serve me well in my future academic and professional pursuits, including problem-solving, organization, and attention to detail.
   
 ### Volunteer,                 Granville Island Children's Festival 2024 
--  Customer service as part of the operations of a theatrical production company that interacts extensively with the public.
 -  Developed critical skills in teamwork, problem-solving, and time management through this experience.
+-  Worked with children and families by quickly creating engaging activities
+-  Gave back to society and made a positive impact on the community.
   
 ### Bard Customer Service Liason,       Bard at the Beach 						2023-2024 
 -  Practiced leadership skills and effective communication by training new coworkers and providing guidance.
--  Worked with children and families by quickly creating engaging activities
+-  Customer service as part of the operations of a theatrical production company that interacts extensively with the public.
 -  Gained valuable experience in a fast-paced, customer-focused environment.
--  Gave back to society and made a positive impact on the community.
   
 ## Awards and Certifications
 ### Certificate of Accomplishment JABC program
