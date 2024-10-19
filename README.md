@@ -3,8 +3,8 @@ With aspirations in finance, math and robotics engineering, I am committed to us
 ## Education
 -  Burnaby Mountain Secondary School, Burnaby, British Columbia, Canada
 -  Expected Graduation: June 2025
--  GPA: 3.7/4.0
 -  AP courses: Computer Science, Chemistry
+
 ## Academics
 ### Mathematics
 -  Calculus (12th Grade): in progress
@@ -13,18 +13,20 @@ With aspirations in finance, math and robotics engineering, I am committed to us
 -  Foundations of Math and Pre Calculus 10 (10th grade): Earned an A
   
 ### Sciences
--  AP Computer Science Principles(11th grade): Earned perfect marks and A+
--  AP Chemistry (12th grade): in progress
--  Physics (12th grade): in progress
+-  AP Computer Science Principles(11th Grade): Earned perfect marks and A+
+-  AP Chemistry (12th Grade): in progress
+-  Physics (12th Grade): in progress
 -  Anatomy and Physiology (12th grade): in progress
 -  Chemistry (11th Grade): Earned an A
 -  Biology (11th Grade): Earned an A
 -  Physics (11th Grade): Earned an A
 
 ### Language Arts
+-  French Enriched (12th Grade): in progress
 -  French (11th Grade): Earned an A+, perfect marks
 -  French (10th Grade): Earned an A
--  English(11th Grade): Earned an A-
+-  English (12th Grade): in progress
+-  English (11th Grade): Earned an A-
 
 ## Volunteering Experience
 ### Vice President of Sales,  Junior Achievement    	2023-2024 
