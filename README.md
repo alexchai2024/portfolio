@@ -1,77 +1,75 @@
-# Student
-With aspirations in finance, math and robotics engineering, I am committed to using my academic and technical skills to make a positive impact on society and drive meaningful change in these industries.
+# Alexander Chai
+
+Commerce student at Queen's University
+
+Intended specialization: Finance 
+Seeking a co-op opportunity to apply analytical skills in valuation, project controls, and market entry strategy.
+
+---
+
 ## Education
--  Burnaby Mountain Secondary School, Burnaby, British Columbia, Canada
--  Expected Graduation: June 2025
--  AP courses: Computer Science, Chemistry
 
-## Academics
-### Mathematics
--  Calculus (12th Grade): in progress
--  PreCalculus12 (11th Grade):  Earned a A
--  Pre Calculus 11 (10th Grade):  Earned an A-
--  Foundations of Math and Pre Calculus 10 (10th grade): Earned an A
-  
-### Sciences
--  AP Computer Science Principles(11th Grade): Earned perfect marks and A+
--  AP Chemistry (12th Grade): in progress
--  Physics (12th Grade): in progress
--  Anatomy and Physiology (12th grade): in progress
--  Chemistry (11th Grade): Earned an A
--  Biology (11th Grade): Earned an A
--  Physics (11th Grade): Earned an A
+### Bachelor of Commerce — Smith School of Business, Queen's University, Kingston, ON *(2025 – Present)*
+- Intended area of specialization: **Finance**
+- Commitment 1992 Award recipient
+- Relevant Coursework: Managerial Accounting (COMM 112), Managerial Economics (COMM 172), Mathematical Analysis(COMM 161), Managerial Statistics(COMM 162)
 
-### Language Arts
--  French Enriched (12th Grade): in progress
--  French (11th Grade): Earned an A+, perfect marks
--  French (10th Grade): Earned an A
--  English (12th Grade): in progress
--  English (11th Grade): Earned an A-
+### British Columbia High School Diploma — Burnaby Mountain Secondary School, Burnaby, BC *(2020 – 2025)*
+- Honor Roll Awards — [View](asset/Honour%20Roll%20Award.jpg)
+- Academic Achievement Award — [View](asset/Academic%20Achievement%20Award.jpg)
+- Enthusiasm for Learning Award — [View](asset/enthusiasm%20for%20learning.jpg)
+- *Franc de la Classe* Award (French) — [View](asset/Franco%20de%20la%20classse.jpg)
 
-## Volunteering Experience
-### Vice President of Sales,  Junior Achievement    	2023-2024 
--  Completed an extracurricular business program in Junior Achievement, gaining valuable insights into the business world and a deeper understanding of finance.
--  Took on the leadership role of Vice President of Sales for my company, demonstrating exceptional leadership skills and achieving outstanding sales results.
--  Utilized marketing strategies to boost revenue and drive sales of our hand-made organic herbal soap products.
--  Achieved the highest net revenue of the competition, earning us the honor of certification. 
+---
 
-### Volunteer with a Member of Parliament,         Terry Beech MP office 				2023-2024 
--  Selected as an honorary volunteer in the office of Terry Beech, Member of Parliament for the riding of Burnaby North Seymour through extensive selection process.
--  Contributed to the development of policy solutions for pressing affordability and infrastructure issues, gaining invaluable experience in policy analysis and development.
--  Planning and execution of high-profile public events, developing critical skills in event planning and problem-solving.
--  Developed critical skills that will serve me well in my future academic and professional pursuits, including problem-solving, organization, and attention to detail.
-  
-### Volunteer,                 Granville Island Children's Festival 2024 
--  Developed critical skills in teamwork, problem-solving, and time management through this experience.
--  Worked with children and families by quickly creating engaging activities
--  Gave back to society and made a positive impact on the community.
-  
-### Bard Customer Service Liason,       Bard at the Beach 						2023-2024 
--  Practiced leadership skills and effective communication by training new coworkers and providing guidance.
--  Customer service as part of the operations of a theatrical production company that interacts extensively with the public.
--  Gained valuable experience in a fast-paced, customer-focused environment.
-  
-## Awards and Certifications
-### Certificate of Accomplishment JABC program
-![Certificate of Accomplishment JABC program](/asset/JA Certificate.png)
+## Professional & Strategic Experience
 
-###	School Honor Roll Award
-![School Honor Roll Award](/asset/Honour Roll Award.jpg)  
+### Valuation Analysis — Investment Banking & Buy Side Prep, Kingston, ON *(2025 – 2026)*
+- Executed a Comparable Company Analysis for PepsiCo, determining it to be undervalued
+- Constructed Discounted Cash Flow Analysis for Ecolab, recommending it as a buy at a target of ±$288.72 (+10.49%)
+- Analyzed hypothetical M&A deal between PepsiCo and Celsius Holdings, finding it to be dilutive
 
-###	Academic Achievement Award
-![Academic Achievement Award](/asset/Academic Achievement Award.jpg) 
-
-###	Enthusiasm for Learning Award
-![Enthusiasm for Learning Award](/asset/enthusiasm for learning.jpg) 
-
-###	Franco de la classe Award
-![Franco de la classe Award](/asset/Franco de la classse.jpg) 
+### Case Competitions and Business Strategy - Smith School of Business, Kingston, ON *(2025-2026)*
+- Queen's Global China Connections- CTExcel Strategy Case: Developed an expansion strategy for a major Asia-Pacific telecommunications brand.
+- Leveraged conversational Mandarin and diagnostic mindset to navigate international regulatory and market challenges.
+- Inter-Collegiate Business Competition - Tesla Strategy Case: Developed a consolidation strategy for Tesla to effectively compete with rising competition in the electric vehicle segment.
 
 
+### Participant — Wharton Global Youth Investment Competition, Richmond, BC *(2024)*
+- Collaborated with peers to propose investment strategies
+- Gained exposure to fundamental analysis, portfolio diversification, and risk management
+- Utilized the WinS trading platform to simulate portfolio diversification and capital allocation
 
-## Projects
+---
+
+## Extracurricular and Leadership Experience
+
+### Member — Constituency Youth Council, Burnaby North–Seymour, Burnaby, BC *(2023 – 2024)*
+- Collaborated with the Member of Parliament for Burnaby North-Seymour to enhance community engagement through policy discussion and event logistics
+- Solidified public speaking and presentation skills by presenting socioeconomic policy briefs
+- Streamlined policy discussions that enhanced awareness of socioeconomic challenges facing youth
+
+
+### Vice President of Sales — Junior Achievement Student Company Program, Richmond, BC *(2024)*
+- Co-founded and led a student-run business selling handmade vegan soaps, generating $84.53 in net income
+- Organized biweekly team meetings, delegated responsibilities, and developed business strategy
+- Directed all profits to BC Children's Hospital, demonstrating discipline and social responsibility alongside entrepreneurship
+
+  [JA Program Certificate](asset/JA%20Certificate.png)
+
+---
+
+## Technical Projects
+
 ### Programming Video Game with Python
--  Utilizing the PyGame library, crafted an object-oriented Pong Game that leverages advanced functions such as draw_start_screen, tictactoe_game, and pong_game. 
--  Further refined coding through the implementation of intricate loops and iterations, resulting in a captivating and dynamic user experience.
+- Utilizing the PyGame library, crafted an object-oriented Pong Game that leverages advanced functions such as draw_start_screen, tictactoe_game, and pong_game
+- Further refined coding through the implementation of intricate loops and iterations, resulting in a captivating and dynamic user experience
 
-    [Pong Game Code](https://github.com/alexchai2024/portfolio/blob/main/Coding/Video%20Game%20Pong%20with%20Python.py)  
+  [Pong Game Code](https://github.com/alexchai2024/portfolio/blob/main/Coding/Video%20Game%20Pong%20with%20Python.py)
+
+---
+
+## Additional Information
+- **Languages:** English (native), French (fluent), Mandarin (conversational)
+- **Interests:** Automotive Engineering, Aviation, History, Geopolitical Initiatives, Macroeconomic Policy, Basketball, Biking, Ice Skating, Table Tennis
+
